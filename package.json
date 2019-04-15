@@ -1,0 +1,26 @@
+{
+  "name": "mcvs",
+  "version": "1.0.0",
+  "description": "Few sample programs in javascript to understand basic concepts",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "swagger-ui": "^3.22.0"
+  },
+  "dependencies": {}
+}

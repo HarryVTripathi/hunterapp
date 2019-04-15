@@ -1,0 +1,1 @@
+The data from the response is available under response.data.rates so we can put that into a variable just below response
